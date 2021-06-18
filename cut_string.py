@@ -1,11 +1,11 @@
 '''
 This program goes over a string from index 0, getting the
 letter that's three steps ahead. And then it concatenates, 
-these letters and returns it as a string.
+these letters and returns it as a json.
 
 For example: 'Beautiful'
               **a**i**l
-              return 'ail'              
+              return -> {"return_string": "ail"}              
 
 __author__: Mbami Luka
 
